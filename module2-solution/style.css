@@ -4,10 +4,8 @@
   }
 
   
-  
-  
-  #t1{
-    background-color: #D59898;
+  #t1, #t2, #t3 {
+
     width: 150px;
     text-align: center;
     font-style:bold;
@@ -18,36 +16,24 @@
     border-bottom:3px solid black ;
     font-family: sans-serif;
 
-
+  }
+  
+  #t1{
+    background-color: #D59898;
+    
 
 }
 
 #t2{
   background-color: #C14543;
-  width: 150px;
-    text-align: center;
-    position: absolute;
-    top:0px;
-    right: 0px;
-    font-family: sans-serif;
+  
+    color: white;
     
-    border-left: 3px solid black;
-    border-bottom:3px solid black ;
-
 }
 
 #t3{
 
   background-color: #E5D198;
-  width: 150px;
-    text-align: center;
-    position: absolute;
-    font-family: sans-serif;
-    top:0px;
-    right: 0px;
-    border-left: 3px solid black;
-    border-bottom:3px solid black ;
-
 
 }
 
@@ -56,17 +42,11 @@
     
     text-align:center;
     font-family: sans-serif;
+    
 
   }
 
- 
 
-
-
-  
-
-  
-  
   p {
     
     width: 95%;
